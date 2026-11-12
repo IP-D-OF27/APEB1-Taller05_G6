@@ -19,5 +19,6 @@ public class Ejercicio01_LegibleVotacion {
 
 /***
  * EVIDENCIA DEL RUN:
- * Pegue aquí la evidencia de la ejecución del .java
+ * Deme edad: 17
+Es legible para votar
  */
