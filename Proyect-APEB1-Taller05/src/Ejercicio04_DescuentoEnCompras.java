@@ -21,5 +21,7 @@ public class Ejercicio04_DescuentoEnCompras {
 }
 /**
  * EVIDENCIA DEL RUN:
- * 
+ * Deme precio: 
+1000
+Precio: 900.0
  */
