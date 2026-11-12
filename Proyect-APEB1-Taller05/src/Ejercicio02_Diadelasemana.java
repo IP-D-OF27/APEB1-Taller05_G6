@@ -44,5 +44,7 @@ public class Ejercicio02_Diadelasemana {
 }
 /***
  * EVIDENCIA DEL RUN:
- * Pegue aquí la evidencia de la ejecución del .java
+ * Dame nro. de dia: 
+6
+El nro de la semana: 6 corresponde a:sabado
  */
