@@ -22,3 +22,7 @@ public class Ejercicio06_CategoriaDeEdad {
     System.out.print("Su categoria corresponde a: " + categoria);        
     }   
 }
+/**
+ * Ingrese su edad: 17
+Su categoria corresponde a: Adolescente
+ */
