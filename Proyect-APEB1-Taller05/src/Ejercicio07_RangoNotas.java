@@ -26,5 +26,7 @@ public class Ejercicio07_RangoNotas {
 }
 /***
  * EVIDENCIA DEL RUN:
- * Pegue aquí la evidencia de la ejecución del .java
+ * Ingrese su calificación: 
+75
+Su calificación es: C
  */
