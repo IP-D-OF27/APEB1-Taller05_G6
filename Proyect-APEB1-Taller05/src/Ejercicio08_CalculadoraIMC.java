@@ -28,3 +28,11 @@ public class Ejercicio08_CalculadoraIMC {
         System.out.println("Su rango corresponde a: " + rango);               
     }   
 }
+/**
+ * EVIDENCIA DEL RUN
+ * Ingrese su altura en metros y peso en Kg: 
+1,55
+48
+Su �ndice de masa corporal(IMC) es: 20,0
+Su rango corresponde a: Peso normal
+ */
