@@ -34,5 +34,8 @@ public class Ejercicio09_OrdenamientoDeTresNumeros {
 }
 /***
  * EVIDENCIA DEL RUN:
- * Pegue aquí la evidencia de la ejecución del .java
+ * Ingrese el primer número: 56
+Ingrese un segundo número: 78
+Ingrese un tercer número: 32
+Orden ascendente: 32.0 - 56.0 - 78.0
  */
