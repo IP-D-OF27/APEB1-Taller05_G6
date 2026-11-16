@@ -36,5 +36,11 @@ public class Ejercicio13_SistemaDeReservasHoteleras {
 
 /***
  * EVIDENCIA DEL RUN:
- * Pegue aquí la evidencia de la ejecución del .java
+ * Igrese los días que se hospedo: 
+7
+Precio diario de la habitación: 
+5
+Subtotal: 35.0
+Descuento: 3.5
+Total a cancelar: 31.5
  */
